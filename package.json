@@ -1,5 +1,5 @@
 {
-  "name": "database",
+  "name": "kow-db",
   "description": "Fast promised json database",
   "version": "1.0.0",
   "exports": {
