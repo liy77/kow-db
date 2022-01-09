@@ -2,3 +2,4 @@
 /dist
 /common
 /**test.*
+/database.json
