@@ -2,11 +2,8 @@
   "name": "database",
   "description": "Fast promised json database",
   "version": "1.0.0",
-  "main": "./dist/index.cjs",
   "exports": {
-    "default": "./dist/index.js",
-    "import": "./dist/index.js",
-    "require": "./dist/index.cjs"
+    "default": "./dist/index.js"
   },
   "license": "MIT",
   "type": "module",
